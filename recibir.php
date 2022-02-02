@@ -9,11 +9,7 @@
 <body>
     <h1>Mostrar datos del formulario</h1>
     <?php
-    $nombre = $_POST['nombre'];
-    echo "El usuario se llama: {$nombre}";
-    echo '<br>';
-    $password = $_POST['pwd'];
-    echo "La contraseña es: {$password}";
+    
     ?>
 </body>
 </html>
